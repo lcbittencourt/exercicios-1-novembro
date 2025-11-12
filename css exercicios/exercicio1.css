@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+.callout{
+    background: rgb(80, 139, 226);
+    border-radius: 6px;
+    padding: 12px 14px;
+    margin: 8px 0 20px 0;
+}
+
+#roda-pe{
+    background: var(--navy);
+    color: rgb(6, 78, 172);
+    text-align: center;
+    border-radius: 4px;
+    padding: 14px 18px;
+    margin: 22px 0 10px;
+    font-weight: 600;
+}
