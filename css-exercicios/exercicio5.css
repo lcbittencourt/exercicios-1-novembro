@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+.cabecalho{
+    background-color: rgb(44, 75, 133);
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-align: center;
+}
+button{
+    background: none;
+    border: none;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-weight: bold;
+    margin: 0 10px 0;
+}
+
+.quadros{
+    border-radius: 8px;
+    border: 4px;
+    border-style: solid;
+    margin: 20px auto;
+    display: flex;
+}
+#q1{
+    background-color: white;
+    width: 100px;
+}
+#q2{}

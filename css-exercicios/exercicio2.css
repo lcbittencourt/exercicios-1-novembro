@@ -81,7 +81,6 @@ img{
     border-style: solid;
     border-color: rgb(202, 45, 45);
     margin: 20px auto;
-    ;
 }
 
 .img-sobremesas{
@@ -95,14 +94,12 @@ img{
     border-radius: 4px;
     border-color: rgb(202, 45, 45);
 }
-
 #bolo-chocolate{
     border: solid 4px;
     border-radius: 4px;
     border-color: rgb(202, 45, 45);
     margin: 0 15px 0 15px;    
 }
-
 #torta-morango{
     margin: 0 0 0 15px;
     border: solid 4px;
